@@ -13,13 +13,11 @@ public class userInput {
                     break;
                 }
             } else {
-                System.out.println("Nonvalid integer input, valid integers are between: " + low + " and " + high + ".");
                 input.next();
             }
+            System.out.println("Nonvalid integer input, valid integers are between: " + low + " and " + high + ".");
         }
 
         return selection;
     }
-
-    
 }

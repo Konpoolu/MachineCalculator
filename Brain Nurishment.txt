@@ -1,0 +1,13 @@
+Lookup
+	existing formulas
+	existing material attributes
+	
+Calculators
+	mill
+		feeds and speeds
+		endmill Calculators
+	lathe
+		feeds and speeds
+		taper angles and speeds
+		threading speeds
+	
